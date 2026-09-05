@@ -12,7 +12,7 @@
 I'm a **Bachelor of Informatics Engineering graduate** currently sharpening my skills in **Data Analysis** and **Data Science**. I enjoy exploring datasets, finding patterns, and turning numbers into stories that support better decisions.
 
 - Currently deepening my knowledge in **SQL, Python, and Business Intelligence tools**
-- Learning to build end-to-end data projects — from cleaning data to building dashboards
+- Learning to build end-to-end data projects, from cleaning data to building dashboards
 - Ask me about **Excel, SQL queries, or dashboard design**
 - Reach me at: *(add your email here)*
 -  Fun fact: I also have a background in web development and IoT!
