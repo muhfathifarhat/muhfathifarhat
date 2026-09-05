@@ -19,7 +19,7 @@ I'm a **Bachelor of Informatics Engineering graduate** currently sharpening my s
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Data Analysis**
 
@@ -47,7 +47,7 @@ I'm a **Bachelor of Informatics Engineering graduate** currently sharpening my s
 ---
 
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamad-fathi-farhat-9882a9410/" target="_blank">
